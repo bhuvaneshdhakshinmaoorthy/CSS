@@ -1,0 +1,145 @@
+/* 1st Question */
+#bodycolor
+{
+    background-color: grey;
+}
+#box1 {
+    background-color: #9a3a46;
+    width: 38.1%;
+    height: 550px;
+    float: left;
+    margin-top: 75px;
+    margin-left: 150px;
+}
+
+#box2 {
+    background-color: rgb(252, 252, 252);
+    width: 38%;
+    height: 550px;
+    float: right;
+    margin-top: 75px;
+    margin-right: 148.1px;
+    float: left;
+}
+
+#syncimage {
+    margin-left: 25px;
+    color: white;
+}
+
+#hello {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -55px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#login
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    font-size: 18px;
+}
+#facebook{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    font-size: 25px;
+    background-color: #39579a;
+    margin-right: 40px;
+}
+#fb{
+    width: 20px;
+    height: 20px;
+}
+#gg
+{
+    width: 20px;
+    height: 20px;
+    /* background-color: ; */
+}
+#google{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    font-size: 25px;
+    background-color: #f14032;
+    margin-right: 40px;
+}
+#tt
+{
+    width: 20px;
+    height: 20px;
+    /* background-color: ; */
+}
+#twitter{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    font-size: 25px;
+    background-color: #24a8e6;
+    margin-right: 40px;
+}
+#login2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:120px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#para2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 18px;
+    color: #9a3a46;
+}
+#particular
+{
+    color: blue;
+}
+#user
+{
+    margin-left: 40px;
+    width: 400px;
+    margin-right: 40px;
+    padding: 5px;
+}
+#pwd
+{
+    margin-right: 40px;
+    margin-left: 40px;
+    width: 400px;
+    padding: 5px;
+}
+#remember
+{
+    margin-left: 40px;
+}
+#mainlogin
+{
+    margin-left: 40px;
+    background-color: #f4354f;
+    margin-right: 40px;
+    /* padding: 5px; */
+    /* width: 100px; */
+
+}
+#loginlink
+{
+    padding: 12px;
+    background-color: #f4354f;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#forgot
+{
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9a3a46;
+}

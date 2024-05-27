@@ -1,0 +1,28 @@
+/* Question 6th */
+
+.main
+{
+    font-size:xx-large;
+}
+
+.firstline
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+.secondline
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+.thirdline
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+}

@@ -1,0 +1,21 @@
+/* 3rd Question */
+
+figure
+{
+    box-shadow: 2px 2px 5px black;
+}
+
+body {
+
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+
+}
+figcaption
+{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+}
